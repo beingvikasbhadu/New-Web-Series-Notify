@@ -29,7 +29,7 @@ I scripted a python script, which put you up to date with new web series update
 ![image](https://user-images.githubusercontent.com/98146902/177004242-3a82ce84-6570-48a7-a237-f8b984a6c599.png)
 
 # :name_badge:License 
-This project is licensed under [MIT License](https://github.com/beingvikasbhadu/Automatically-Apply-Black-and-White-Effect-On-Images/blob/master/LICENSE) 2022 vikas bhadu
+This project is licensed under [MIT License](https://github.com/beingvikasbhadu/New-Web-Series-Notify/blob/master/LICENSE) 2022 vikas bhadu
 
 
 # :arrow_upper_right:Future Improvements
